@@ -11,6 +11,7 @@ for i in range(0, 20):
 
 winners = [max(team_1[i], team_2[i]) for i in range(20)]
 
+
 print("Первая команда: ", team_1)
 print("Вторая команда: ", team_2)
 print("Победители", winners)
