@@ -1,6 +1,7 @@
 alphabet = 'ABCDEFG'
 
 
+
 print("1", alphabet[:])
 print("2", alphabet[::-1])
 print("3", alphabet[::2])
